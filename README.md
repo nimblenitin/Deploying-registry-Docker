@@ -2,6 +2,8 @@
 
 A Docker registry is a system for versioning, storing and distributing Docker images
 
+Steps to create a registry and place an image in it-
+
 ```
 
 1. Run the following command to start the registry container:
